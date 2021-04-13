@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1576917206 source:c:\users\alex\desktop\dots and boxes\dots and boxes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"easy.h"
+	"hard.h"
+	"computer.h"
+	<windows.h>
+
+1576915057 c:\users\alex\desktop\dots and boxes\dots and boxes\easy.h
+
+1576913831 c:\users\alex\desktop\dots and boxes\dots and boxes\hard.h
+
+1576913833 c:\users\alex\desktop\dots and boxes\dots and boxes\computer.h
+
+1576917206 source:c:\users\alex\desktop\game wrong\dots and boxes\dots and boxes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"easy.h"
+	"hard.h"
+	"computer.h"
+	<windows.h>
+
+1576915057 c:\users\alex\desktop\game wrong\dots and boxes\dots and boxes\easy.h
+
+1576913831 c:\users\alex\desktop\game wrong\dots and boxes\dots and boxes\hard.h
+
+1576913833 c:\users\alex\desktop\game wrong\dots and boxes\dots and boxes\computer.h
+
